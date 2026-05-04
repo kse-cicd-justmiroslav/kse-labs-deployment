@@ -26,3 +26,4 @@ spec:
     message: "All Deployments in `applications` must carry an `owner` label (team name)."
     labels:
       - key: owner
+

@@ -11,3 +11,4 @@ The following table lists the configurable parameters of the Gatekeeper Policy M
 {% for (param, comment, default) in values -%}
 | `{{ param }}` | {{comment}} | {{ default }} |
 {% endfor -%}
+

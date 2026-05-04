@@ -6,7 +6,7 @@ metadata:
 spec:
   description: Application services
   sourceRepos:
-    - https://github.com/kse-bd8338bbe006/kse-labs-deployment.git
+    - https://github.com/kse-cicd-justmiroslav/kse-labs-deployment.git
   destinations:
     - namespace: applications
       server: https://kubernetes.default.svc
@@ -30,3 +30,4 @@ spec:
       kind: ExternalSecret
     - group: ''
       kind: LimitRange
+

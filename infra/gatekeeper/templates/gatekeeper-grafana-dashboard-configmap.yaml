@@ -19,3 +19,4 @@ metadata:
 data:
   gatekeeper.json: |
 {{ .Files.Get "dashboards/gatekeeper.json" | indent 4 }}
+

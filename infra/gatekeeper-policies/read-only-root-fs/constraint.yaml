@@ -38,3 +38,4 @@ spec:
   parameters:
     # Placeholder -- swap in actual exempt image prefixes as needed.
     exemptImages: []
+

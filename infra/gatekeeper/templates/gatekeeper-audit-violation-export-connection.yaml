@@ -11,3 +11,4 @@ spec:
     path: "{{ .Values.audit.exportConnection.path }}"
     maxAuditResults: {{ .Values.audit.exportConnection.maxAuditResults }}
 {{- end }}
+

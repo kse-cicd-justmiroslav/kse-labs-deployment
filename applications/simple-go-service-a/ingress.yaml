@@ -16,3 +16,4 @@ spec:
                 name: simple-go-service-a
                 port:
                   number: 80
+

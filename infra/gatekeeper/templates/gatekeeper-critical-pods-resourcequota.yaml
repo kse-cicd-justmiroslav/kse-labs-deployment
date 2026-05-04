@@ -22,3 +22,4 @@ spec:
       - {{ .Values.controllerManager.priorityClassName }}
       - {{ .Values.audit.priorityClassName }}
 {{- end }}
+

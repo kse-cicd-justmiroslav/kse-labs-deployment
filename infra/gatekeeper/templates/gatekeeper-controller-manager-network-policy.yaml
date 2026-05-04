@@ -24,3 +24,4 @@ spec:
       control-plane: controller-manager
       gatekeeper.sh/operation: webhook
 {{- end -}}
+

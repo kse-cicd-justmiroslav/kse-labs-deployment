@@ -162,3 +162,4 @@ clusterRole:
   # The name of a cluster role to bind to; if not set and create is
   # true, a name based on fullname is generated
   name: "gatekeeper-policy-manager-crd-view"
+

@@ -19,3 +19,4 @@ subjects:
   name: gatekeeper-admin
   namespace: '{{ .Release.Namespace }}'
 {{- end }}
+

@@ -196,3 +196,4 @@ Extra env vars for audit pods
 {{- toYaml .Values.audit.extraEnvs }}
 {{- end -}}
 {{- end -}}
+

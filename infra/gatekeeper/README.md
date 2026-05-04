@@ -267,3 +267,4 @@ information._
 Please refer
 to [Contributing to Helm Chart](https://open-policy-agent.github.io/gatekeeper/website/docs/help#contributing-to-helm-chart)
 for modifying the Helm chart.
+

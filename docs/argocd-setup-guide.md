@@ -515,3 +515,4 @@ kubectl describe application svc-example-service -n argocd
 4. Everything else is Git-driven
 
 **No more `kubectl apply` for deployments. Just `git push`.**
+
