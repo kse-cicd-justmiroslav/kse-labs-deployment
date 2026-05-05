@@ -5,6 +5,9 @@ metadata:
   namespace: applications
   labels:
     app.kubernetes.io/name: my-app
+    owner: platform-team
+    env: dev
+    cost-center: platform
 spec:
   replicas: 1
   selector:
